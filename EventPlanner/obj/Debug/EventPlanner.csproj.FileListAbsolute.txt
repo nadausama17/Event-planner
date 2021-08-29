@@ -1,0 +1,28 @@
+E:\3rd 2nd\EventPlanner\bin\Debug\EventPlanner.exe.config
+E:\3rd 2nd\EventPlanner\bin\Debug\EventPlanner.exe
+E:\3rd 2nd\EventPlanner\bin\Debug\EventPlanner.pdb
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.csprojAssemblyReference.cache
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.Form1.resources
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.Form2.resources
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.Form3.resources
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.Form4.resources
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.Form5.resources
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.Properties.Resources.resources
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.csproj.GenerateResource.cache
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.exe
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.pdb
+E:\3rd 2nd\EventPlanner\bin\Debug\Oracle.DataAccess.dll
+E:\3rd 2nd\EventPlanner\obj\Debug\EventPlanner.csproj.CopyComplete
+C:\Users\dell\Desktop\EventPlanner\bin\Debug\EventPlanner.exe.config
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.exe
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.pdb
+C:\Users\dell\Desktop\EventPlanner\bin\Debug\EventPlanner.exe
+C:\Users\dell\Desktop\EventPlanner\bin\Debug\EventPlanner.pdb
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.Form1.resources
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.Form2.resources
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.Form3.resources
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.Form4.resources
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.Form5.resources
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.Properties.Resources.resources
+C:\Users\dell\Desktop\EventPlanner\obj\Debug\EventPlanner.csproj.GenerateResource.Cache
